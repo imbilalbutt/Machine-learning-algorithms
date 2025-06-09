@@ -1,4 +1,4 @@
-`README.md` for Machine Learning Algorithms project:
+README.md for Machine Learning Algorithms project:
 
 ```markdown
 # Machine Learning Algorithms (MATLAB Implementation)
